@@ -1,8 +1,6 @@
 # 🌱 Health & Wellness Advisor Crew
 **Powered by CrewAI + OpenAI**
 
-🌐 **[View Live Application](https://crewai-health-n-wealth-adviser.vercel.app)**
-
 > **Transform your wellness journey with AI. Enter your goal, constraints, and duration—get a personalized multi-week wellness plan designed by a team of specialized AI agents in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -217,7 +215,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-[Live Demo](https://crewai-health-n-wealth-adviser.vercel.app) 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
 </div>
